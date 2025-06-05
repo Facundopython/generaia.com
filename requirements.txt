@@ -1,4 +1,4 @@
 Flask==2.0.3
 Flask-OAuthlib==0.9.6
 gunicorn==21.2.0
-Werkzeug>=2.2.3,<3.0
+Werkzeug==2.0.3
